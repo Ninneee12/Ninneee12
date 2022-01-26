@@ -1,5 +1,5 @@
 <h1 align='center'> Hello, I'm Aline Franco <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> <br /> 
-Em busca de Novas Oportunidades - Full Stack </h1>
+Em busca de Novas Oportunidades - Web Developer </h1>
  <div>
  
  <div align="center">
