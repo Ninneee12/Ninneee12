@@ -22,7 +22,7 @@ Em busca de Novas Oportunidades - Web Developer </h1>
  ##
 
 <ul>
-  <li>🎓 Analise e desenvolvimento de Sistemas - 3° Semestre</li>
+  <li>🎓 Analise e desenvolvimento de Sistemas - 5° Semestre</li>
   <li>🎓 Tecnico em Sistemas de Informação </li>
 </ul>
 Profissional super apaixonada por tecnologia, sempre em busca de novos conhecimentos.
