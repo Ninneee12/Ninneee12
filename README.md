@@ -2,7 +2,7 @@
  ![GitHub followers](https://img.shields.io/github/followers/Ninneee12?style=social)
 
 
- # Hello, I'm Aline Franco <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> <img width="221px" height = "221px" align="right"  src="https://octodex.github.com/images/femalecodertocat.png" alt="cover" /> 
+ # Hello, I'm Aline Franco <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px><img width="221px" height = "221px" align="right"  src="https://octodex.github.com/images/femalecodertocat.png" alt="cover" /> 
  I'm Junior FrontEnd Development. Curious about tech and always looking for the best way to develop products and improve experiences.
  
   
